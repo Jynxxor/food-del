@@ -1,0 +1,11 @@
+express - framework
+mongoose - help to connect DB
+jsonwebtoken - help to authenticate
+bcrypt - help to encrypt user data
+cors - give permission to connect backend with frontend
+dotenv - help to use environment variable in project
+body-parser - help to parse data coming from user
+multer - using this we can create images store system
+stripe - using this we can add payment gateways on webpage
+validator - use to check password/email valid or not
+nodemon - when we save project server will be restart
