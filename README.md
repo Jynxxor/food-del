@@ -24,7 +24,7 @@ A full-stack online food ordering platform with separate user-facing frontend, a
 - Add, update, or delete food items
 - Manage menu categories
 - View and manage all customer orders
-- Update order status (e.g., Pending, Preparing, Delivered)
+- Update order status (e.g. Food Processing, Out for delivery, Delivered)
 
 
 ### ⚙️ Backend API (`/backend`)
@@ -52,9 +52,9 @@ txt.txt    → Lists installed packages
 **For `/backend/.env`:**
 
 ```env
-MONGO_URI=https://www.mongodb.com/atlas/database
-JWT_SECRET=yourSuperSecretJWTkey@9231
-STRIPE_SECRET_KEY=https://dashboard.stripe.com/test/dashboard
+MONGODB_URL = https://www.mongodb.com/atlas/database
+JWT_SECRET = yourSuperSecretJWTkey@9231
+STRIPE_SECRET_KEY = https://dashboard.stripe.com/test/dashboard
 ```
 
 ---
@@ -76,7 +76,7 @@ STRIPE_SECRET_KEY=https://dashboard.stripe.com/test/dashboard
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com//Jynxxor//food-del.git
+git clone https://github.com/Jynxxor/food-del.git
 cd food-del
 ```
 
@@ -88,10 +88,10 @@ Install for each part:
 cd backend
 npm install
 
-cd ../frontend
+cd frontend
 npm install
 
-cd ../admin
+cd admin
 npm install
 ```
 
@@ -108,13 +108,13 @@ In **separate terminals**:
 cd backend
 npm run server
 
-# Start user app (http://localhost:5173)
-cd ../frontend
-npm start
+# Start frontend app (http://localhost:5173)
+cd frontend
+npm run dev
 
 # Start admin app (http://localhost:5174)
-cd ../admin
-npm start
+cd admin
+npm run dev
 ```
 
 ---
