@@ -122,17 +122,17 @@ npm run dev
 ## 🖼️ Project Screenshots
 
 ##### Food Ordering
-![HomePage](./images/homePage.png)
-![Categories&Menu](./images/cat&menu.png)
-![Login](./images/login.png)
-![Cart&Checkout](./images/cartCheckout.png)
-![Payment](./images/payment.png)
-![MyOrders](./images/myorders.png)
+![HomePage](https://github.com/user-attachments/assets/886eaa46-7a84-4ffb-808e-5b2beff0919a)
+![Categories&Menu](https://github.com/user-attachments/assets/1b20b84a-5594-4d2b-93e1-41b38e447a42)
+![Login](https://github.com/user-attachments/assets/f4a5f994-fd6d-4f59-8b54-2616ff40275b)
+![Cart&Checkout](https://github.com/user-attachments/assets/58545970-7cc3-4673-a585-a05e5f52ac37)
+![Payment](https://github.com/user-attachments/assets/8a9cd033-37d8-4e42-aa8e-8c8bcc74f6e4)
+![MyOrders](https://github.com/user-attachments/assets/0f29cbe3-f5bc-4ec6-80c8-2429b01e8071)
 
 ##### Admin
-![addItem](./images/addItems.png)
-![itemsList](./images/items.png)
-![orders](./images/orders.png)
+![addItem](https://github.com/user-attachments/assets/47df17e8-80aa-43d2-9cec-e41785f8cede)
+![itemsList](https://github.com/user-attachments/assets/ad25f606-2fc4-4d7a-afbb-60304f56666f)
+![orders](https://github.com/user-attachments/assets/5ab7434b-c5f4-4dc8-be73-8a4164947d60)
 
 ---
 
