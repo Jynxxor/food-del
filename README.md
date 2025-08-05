@@ -6,7 +6,7 @@ A full-stack online food ordering platform with separate user-facing frontend, a
 
 ## 🌐 Live Preview
 
-[👉 Visit the Live Site](https://food-del-frontend-8f4t.onrender.com)
+[👉🏻 Visit the Live Site](https://food-del-frontend-8f4t.onrender.com)
 
 ---
 
@@ -61,13 +61,16 @@ STRIPE_SECRET_KEY = https://dashboard.stripe.com/test/dashboard
 
 ## 🧰 Tech Stack
 
-| Layer    | Tech                       |
-| -------- | -------------------------- |
-| Frontend | ReactJS, Redux             |
-| Backend  | Node.js, Express, Mongoose |
-| Database | MongoDB (Atlas)            |
-| Payments | Stripe API                 |
-| Auth     | JWT (JsonWebToken)         |
+<p align="left"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="ReactJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/4e34154e-4150-4ec0-b24b-4646b341e606" alt="JWT" width="40" height="40"/> 
+</p>
 
 ---
 
