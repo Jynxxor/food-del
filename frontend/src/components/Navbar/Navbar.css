@@ -4,9 +4,13 @@
   justify-content: space-between;
   align-items: center;
 }
+.navbar a{
+  height: 26px;
+}
 
 .navbar .logo {
-  width: 150px;
+  /* width: 150px; */
+  height: 35px;
 }
 
 .navbar-menu {
@@ -100,10 +104,6 @@
 }
 
 @media (max-width: 1050px) {
-  .navbar .logo {
-    width: 140px;
-  }
-
   .navbar-menu {
     gap: 20px;
     font-size: 17px;
@@ -123,10 +123,6 @@
 }
 
 @media (max-width: 900px) {
-  .navbar .logo {
-    width: 120px;
-  }
-
   .navbar-menu {
     gap: 15px;
     font-size: 16px;

@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer' id='footer' >
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.logo} alt="" />
+          <img src={assets.logo1} alt="" className="logo" />
           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Exercitationem dolorem quo facilis sequi commodi autem eos cum nostrum illo architecto necessitatibus reiciendis, consequuntur, mollitia, dignissimos ratione minus tempore impedit dicta.</p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
@@ -28,12 +28,12 @@ const Footer = () => {
           <h2>GET IN TOUCH</h2>
           <ul>
             <li>+1-111-222-3456</li>
-            <li>contact@tomato.com</li>
+            <li>contact@cravory.com</li>
           </ul>
         </div>
       </div>
       <hr />
-      <p className='footer-copyright'>Copyright 2024 © Tomato.com - All Right Reserved.</p>
+      <p className='footer-copyright'>Copyright 2024 © cravory.com - All Right Reserved.</p>
     </div>
   )
 }
